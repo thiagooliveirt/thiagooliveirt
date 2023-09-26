@@ -3,7 +3,6 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-Python" height="50" width="60" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor">
   <img align="center" alt="Rafa-Python" height="50" width="60" src="https://icongr.am/devicon/django-original.svg?size=128&color=currentColor">
   <img align="center" alt="Rafa-Python" height="50" width="60" src="https://devicon-website.vercel.app/api/pandas/original-wordmark.svg"></img>
